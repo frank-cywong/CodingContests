@@ -1,0 +1,6 @@
+# C++
+*.exe
+*.stackdump
+
+# Java
+*.class
